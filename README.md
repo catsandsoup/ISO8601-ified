@@ -1,4 +1,5 @@
 <h1>ISO8601-ify your files with this handy script!</h1>
+<p>This script is particularly useful for organizing and standardizing file naming conventions across large collections of files and folders. This script operates recursively.</p>
 <h3> WARNING: BACK UP YOUR FILES FIRST </h3>
 <h2>Instructions</h2>
 <ol>
