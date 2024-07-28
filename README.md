@@ -7,3 +7,6 @@
   <li>Drag the folder you want modified into the same terminal window</li>
   <li>Press enter and wait a few seconds for the script to finish</li>
 </ol>
+<h2>Features</h2>
+<ul>Dry Run Option: The script includes a --dry-run option to show what changes would be made without actually renaming files. </ul>
+<ul>Logging Operations: The script logs all operations to a log file (rename_log.txt)</ul>
